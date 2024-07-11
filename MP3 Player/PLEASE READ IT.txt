@@ -3,4 +3,6 @@ There may some bugs in the code like:
 ->when next song is being played then the slider won't move in the next song
 
 /* these bugs are being fixed currently and will be fixed soon after that efforts on UI will also be done*/
+/*Also Playlist can be saved as text files in the folder, to open your created playlist you have to select the text files that have relative paths of mp3 files in it*/
+/*I have also attached a sample text file for understanding*/
 ENJOY THIS MUSIC PLAYER TILL THEN!
