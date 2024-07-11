@@ -1,4 +1,4 @@
-There may some bugs in the code like:
+There are some bugs in the code like:
 ->when you want to play the file from any specific position by moving the slider, the file will play from that position but the slider will reset to start positon and will start from 0
 ->when next song is being played then the slider won't move in the next song
 
