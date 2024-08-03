@@ -108,7 +108,7 @@ public class musicPlayer extends JFrame{
 				implementation.setCurrentFrame(frame);
 				
 				//update current time in milli as well
-				implementation.setcurrtimemilli((int)(frame/2.08*implementation.getCurrentSong().getFrameRateperMilliSeconds()));
+				implementation.setcurrtimemilli((int)(frame/(2.08*implementation.getCurrentSong().getFrameRateperMilliSeconds())));
 				
 				//resume the song
 				implementation.playCurrentSong();
