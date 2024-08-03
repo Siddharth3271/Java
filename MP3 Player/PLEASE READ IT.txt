@@ -6,3 +6,7 @@ There are some bugs in the code like:
 /*Also Playlist can be saved as text files in the folder, to open your created playlist you have to select the text files that have relative paths of mp3 files in it*/
 /*I have also attached a sample text file for understanding*/
 ENJOY THIS MUSIC PLAYER TILL THEN!
+
+
+/***UPDATE***/
+->Fixed the first problem, now the slider won't reset
